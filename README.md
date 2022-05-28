@@ -6,8 +6,7 @@ Projects that I developed during the Unity Junior Pathway
 This is prototype is for understanding basic car controls and movements.
   
 ![proto1](Game Images/Prototype-1/Prototype-1.png)
-  
-\
+
 
   
 <h3> Prototype 2 <h3>
@@ -17,7 +16,7 @@ This is prototype is a top down game. We are try to feed the animals coming towa
 ![proto2](Game Images/Prototype-2/Prototype2.png)
   
   
-\
+
 
   
 <h3> Prototype 3 <h3>
@@ -26,7 +25,7 @@ This is prototype is a endless runner game. We try to jump over obstacles. If we
   
 ![proto3](Game Images/Prototype-3/Prototype3.png)
   
-\
+
 
   
 <h3> Prototype 4 <h3>
@@ -35,9 +34,6 @@ This purpose of this game is collect diamond without falling off the platform. O
   
 ![proto4](Game Images/Prototype-4/Prototype4.png)
   
-  
-  
-\
 
   
 <h3> Prototype 5 <h3>
