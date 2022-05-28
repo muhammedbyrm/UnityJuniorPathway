@@ -6,7 +6,7 @@ Projects that I developed during the Unity Junior Pathway
   
 This is a sipmle car controller prototype in order to understand basic car movements and physics.
   
-![proto2](Game Images/Prototype-1/Prototype-1.png)
+![proto2](../Prototype-1.png)
 
 
 <h3> Prototype 2 <h3>
