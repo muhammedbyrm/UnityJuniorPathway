@@ -1720,7 +1720,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0
   rpm: 0
-  horsePower: 40000
+  horsePower: 80000
   turnSpeed: 40
   centerOfMass: {fileID: 1250234717}
   speedometerText: {fileID: 478631945}
